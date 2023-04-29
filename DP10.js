@@ -1,4 +1,4 @@
-let opps = {
+{
     z2au: '71913922',
     Zamjr: '3479449582',
     Zam: '3715217215',
@@ -37,4 +37,3 @@ let opps = {
     ValerieHilton: '297741792',
     J7M7S: '78630314',
 }
-return opps
