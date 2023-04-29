@@ -1,4 +1,4 @@
-let opps = {
+new Object({
     z2au: '71913922',
     Zamjr: '3479449582',
     Zam: '3715217215',
@@ -36,4 +36,4 @@ let opps = {
     lurpxinn: '446850732',
     ValerieHilton: '297741792',
     J7M7S: '78630314',
-}
+})
