@@ -41,5 +41,5 @@ new Object({
     Vlone: 2411552526,
     Jougie: 3695401961,
     dtbwalks: 2330781345,
-    some tootsie nigga: 3695390943,
+    some randomnigga: 3695390943,
 })
