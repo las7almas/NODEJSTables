@@ -37,4 +37,4 @@ let opps = {
     ValerieHilton: '297741792',
     J7M7S: '78630314',
 }
-return opps
+confirm(opps)
