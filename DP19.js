@@ -36,4 +36,10 @@ new Object({
     lurpxinn: 446850732,
     ValerieHilton: 297741792,
     J7M7S: 78630314,
+    6Ghxst: 1593707423,
+    6ugged: 114080011,
+    Vlone: 2411552526,
+    Jougie: 3695401961,
+    dtbwalks: 2330781345,
+    some tootsie nigga: 3695390943,
 })
