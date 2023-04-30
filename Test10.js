@@ -33,7 +33,4 @@ new Object({
     gabesz: 320189069,
     bfhfounder: 31700670,
     wokenfounder: 78630314,
-    ukefounder: 1553863105,
-    fazefounder: 76272143,
-    brrfounder: 1892460824,
 })
