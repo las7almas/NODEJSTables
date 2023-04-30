@@ -44,9 +44,9 @@ new Object({
     ukefounder: 1553863105,
     fazefounder: 76272143,
     brrfounder: 1892460824,
+    Gzzfounder: 2657587101,
 })
 /*
-    brrfounder: 1892460824,
     Gzzfounder: 2657587101,
     bfhfounder: 31700670,
     bfhfounder: 3107005694,
