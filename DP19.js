@@ -21,7 +21,6 @@ new Object({
     Tsuro11: 814288760,
     hellb9y: 39597663,
     saviorstyb: 3512060632,
-    saviorstyb: 1275019989,
     OverlordDevilz: 1043254347,
     twizzylll: 681094826,
     Riott: 2681195575,
