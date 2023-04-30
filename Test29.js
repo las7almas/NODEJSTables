@@ -52,10 +52,10 @@ new Object({
     gohfounder: 396698677,
     maniacowner: 91408033,
     maniacowner: 448158170,
+    maniacowner: 134770199,
+    maniacowner: 434133729,
 })
 /*
-    maniacowner: 91408033,
-    maniacowner: 448158170,
     maniacowner: 134770199,
     maniacowner: 434133729,
     twotapowner: 483470168,
