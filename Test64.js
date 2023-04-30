@@ -48,8 +48,7 @@ new Object({
     twotapowner3: 1758596500,
     maniacowner2: 448158170,
     maniacowner3: 134770199,
-    maniacowner4: 434133729,
-    gohfounder2: 1177627751
+    maniacowner4: 434133729
 })
 /* 4/30/23 1:08AM EST */
 
