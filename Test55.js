@@ -61,6 +61,6 @@ new Object({
     "synfulfounder": 3354013480,
     "gohfounder": 552409957,
     "battalionfounder": 3819335810,
-    "executeowner": 2702460436
+    "executeowner": 416923057
 })
 /* 4/29/23 10:19PM EST */
