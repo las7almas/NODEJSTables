@@ -62,7 +62,6 @@ new Object({
     synfulfounder: 3354013480,
     gohfounder: 552409957,
     battalionfounder: 3819335810,
-    rrfounder: 1,
 })
 /*
     rawrrawrfounder: 3851587719,
