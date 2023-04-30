@@ -45,7 +45,4 @@ new Object({
     maniacowner: 91408033,
     maniacowner: 448158170,
     maniacowner: 134770199,
-    maniacowner: 434133729,
-    twotapowner: 483470168,
-    twotapowner: 3332608463,
 })
