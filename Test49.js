@@ -60,17 +60,6 @@ new Object({
     rebirthfounder: 1769416102,
     synfulfounder: 3354013480,
     gohfounder: 552409957,
-    executeowner: 2673854558,
-    executeowner: 2702460436,
-    paranoiafounder: 416923057,
-    paranoiaowner: 2987641442,
-    paranoiaowner: 5847072,
-    anarchyowner: 6961194,
-    anarchyowner: 969192549,
-    anarchyowner: 55023216,
-    motionowner: 1972584750,
-    motionowner: 1995465067,
-    motionowner: 3930421467,
     battalionfounder: 3819335810
 })
-/* 4/30/23 12:44PM EST */
+/* 4/29/23 10:19PM EST */
