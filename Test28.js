@@ -50,10 +50,10 @@ new Object({
     gohfounder: 22582421,
     gohfounder: 1177627751,
     gohfounder: 396698677,
+    maniacowner: 91408033,
+    maniacowner: 448158170,
 })
 /*
-    gohfounder: 1177627751,
-    gohfounder: 396698677,
     maniacowner: 91408033,
     maniacowner: 448158170,
     maniacowner: 134770199,
