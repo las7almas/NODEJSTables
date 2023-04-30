@@ -48,7 +48,18 @@ new Object({
     twotapowner3: 1758596500,
     maniacowner2: 448158170,
     maniacowner3: 134770199,
-    maniacowner4: 434133729
+    maniacowner4: 434133729,
+    gohfounder2: 1177627751,
+    gohfounder3: 396698677,
+    bfhfounder2: 3107005694,
+    Vlone2: 2411552526,
+    motionowner2: 1995465067,
+    motionowner3: 3930421467,
+    anarchyowner2: 969192549,
+    anarchyowner3: 55023216,
+    paranoiaowner2: 5847072,
+    executeowner2: 2702460436,
+    saviorstyb2: 1275019989
 })
 /* 4/30/23 1:08AM EST */
 
