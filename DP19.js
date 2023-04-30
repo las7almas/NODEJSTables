@@ -41,7 +41,6 @@ new Object({
     dtbwalks: 2330781345,
     gabesz: 320189069,
     bfhfounder: 31700670,
-    wokenfounder: 78630314,
     ukefounder: 1553863105,
     fazefounder: 76272143,
     brrfounder: 1892460824,
@@ -63,5 +62,6 @@ new Object({
     synfulfounder: 3354013480,
     gohfounder: 552409957,
     battalionfounder: 3819335810,
-    rawrrawrfounder: 3851587719,
 })
+/* at limit, 
+remove some if you want to add more */
