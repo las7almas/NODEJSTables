@@ -31,6 +31,4 @@ new Object({
     Jougie: 3695401961,
     dtbwalks: 2330781345,
     gabesz: 320189069,
-    bfhfounder: 31700670,
-    wokenfounder: 78630314,
 })
