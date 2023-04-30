@@ -48,9 +48,10 @@ new Object({
     bfhfounder: 31700670,
     bfhfounder: 3107005694,
     gohfounder: 22582421,
+    gohfounder: 1177627751,
+    gohfounder: 396698677,
 })
 /*
-    gohfounder: 22582421,
     gohfounder: 1177627751,
     gohfounder: 396698677,
     maniacowner: 91408033,
