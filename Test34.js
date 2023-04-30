@@ -60,10 +60,10 @@ new Object({
     aorifounder: 661573832,
     rebirthfounder: 1769416102,
     synfulfounder: 3354013480,
+    gohfounder: 552409957,
+    battalionfounder: 3819335810,
 })
 /*
-    rebirthfounder: 1769416102,
-    synfulfounder: 3354013480,
     gohfounder: 552409957,
     battalionfounder: 3819335810,
     rawrrawrfounder: 3851587719,
