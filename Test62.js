@@ -42,17 +42,17 @@ new Object({
     aorifounder: 661573832,
     rebirthfounder: 1769416102,
     synfulfounder: 3354013480,
-    battalionfounder: 3819335810
+    battalionfounder: 3819335810,
+    gohfounder4: 552409957,
+    twotapowner2: 3332608463,
+    twotapowner3: 1758596500,
+    maniacowner2: 448158170,
+    maniacowner3: 134770199,
+    maniacowner4: 434133729
 })
 /* 4/30/23 1:08AM EST */
 
 /*
-gohfounder4: 552409957,
-twotapowner2: 3332608463,
-twotapowner3: 1758596500,
-maniacowner2: 448158170,
-maniacowner3: 134770199,
-maniacowner4: 434133729,
 gohfounder2: 1177627751,
 gohfounder3: 396698677,
 bfhfounder2: 3107005694,
