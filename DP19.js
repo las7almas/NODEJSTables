@@ -15,7 +15,6 @@ new Object({
     Damas36: 1730581670,
     lxndon: 341763380,
     canadianwrld: 318871216,
-    ebkGloxx: 181160359,
     Dyswrld: 1826873689,
     bloodhillx: 2667574380,
     Vlone: 91878,
