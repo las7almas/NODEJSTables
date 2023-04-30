@@ -58,4 +58,6 @@ new Object({
     twotapowner: 483470168,
     twotapowner: 3332608463,
     twotapowner: 1758596500,
+    aorifounder: 661573832,
+    rebirthfounder: 1769416102,
 })
