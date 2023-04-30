@@ -66,7 +66,6 @@ new Object({
     paranoiaowner: 2987641442,
     paranoiaowner: 5847072,
     anarchyowner: 6961194,
-    anarchyowner: 3332608463,
     anarchyowner: 969192549,
     anarchyowner: 55023216,
     motionowner: 1972584750,
