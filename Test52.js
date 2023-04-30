@@ -60,7 +60,6 @@ new Object({
     "rebirthfounder": 1769416102,
     "synfulfounder": 3354013480,
     "gohfounder": 552409957,
-    "battalionfounder": 3819335810,
-    "executeowner": 2673854558
+    "battalionfounder": 3819335810
 })
 /* 4/29/23 10:19PM EST */
