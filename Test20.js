@@ -42,6 +42,7 @@ new Object({
     gabesz: 320189069,
     bfhfounder: 31700670,
     ukefounder: 1553863105,
+    fazefounder: 76272143,
 })
 /*
 fazefounder: 76272143,
