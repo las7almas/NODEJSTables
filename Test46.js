@@ -45,7 +45,6 @@ new Object({
     fazefounder: 76272143,
     brrfounder: 1892460824,
     Gzzfounder: 2657587101,
-    bfhfounder: 31700670,
     bfhfounder: 3107005694,
     gohfounder: 22582421,
     gohfounder: 1177627751,
@@ -61,7 +60,7 @@ new Object({
     rebirthfounder: 1769416102,
     synfulfounder: 3354013480,
     gohfounder: 552409957,
-    battalionfounder: 3819335810,
+    battalionfounder: 3819335810
 })
 /*
     rawrrawrfounder: 3851587719,
